@@ -1,0 +1,7 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "jetlab-variable", sans-serif;
+    font-variation-settings: "LIFT" 82, "HORZ" 40, "VERT" 25, "THRU" 125;
+}
